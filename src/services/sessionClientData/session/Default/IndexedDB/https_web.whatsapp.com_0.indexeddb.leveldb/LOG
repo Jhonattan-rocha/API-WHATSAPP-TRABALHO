@@ -1,0 +1,20 @@
+2024/05/06-19:19:39.378 1dc9d Reusing MANIFEST /home/ti/meuProjetoWhatsApp/src/services/sessionClientData/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/06-19:19:39.382 1dc9d Recovering log #209
+2024/05/06-19:19:39.571 1dc9d Reusing old log /home/ti/meuProjetoWhatsApp/src/services/sessionClientData/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000209.log 
+2024/05/06-19:20:15.429 1dc97 Level-0 table #218: started
+2024/05/06-19:20:15.660 1dc97 Level-0 table #218: 1067301 bytes OK
+2024/05/06-19:20:15.679 1dc97 Delete type=0 #209
+2024/05/06-19:20:15.773 1dc97 Compacting 1@1 + 5@2 files
+2024/05/06-19:20:16.467 1dc97 Generated table #219@1: 54042 keys, 2264811 bytes
+2024/05/06-19:20:16.665 1dc97 Generated table #220@1: 5218 keys, 2159346 bytes
+2024/05/06-19:20:16.904 1dc97 Generated table #221@1: 25983 keys, 2219672 bytes
+2024/05/06-19:20:17.211 1dc97 Generated table #222@1: 72479 keys, 2213911 bytes
+2024/05/06-19:20:17.349 1dc97 Generated table #223@1: 43948 keys, 938525 bytes
+2024/05/06-19:20:17.349 1dc97 Compacted 1@1 + 5@2 files => 9796265 bytes
+2024/05/06-19:20:17.352 1dc97 compacted to: files[ 0 0 5 0 0 0 0 ]
+2024/05/06-19:20:17.353 1dc97 Delete type=2 #213
+2024/05/06-19:20:17.353 1dc97 Delete type=2 #212
+2024/05/06-19:20:17.353 1dc97 Delete type=2 #214
+2024/05/06-19:20:17.353 1dc97 Delete type=2 #211
+2024/05/06-19:20:17.353 1dc97 Delete type=2 #218
+2024/05/06-19:20:17.353 1dc97 Delete type=2 #215
